@@ -1,5 +1,7 @@
 # Challenge4-QuizGame
 
+[live site](https://tgallagher496.github.io/Challenge4-QuizGame/)
+
 ## Description
 
 This project is a simple quiz game.  The user has 50 seconds to answer all 5 questions.  The score the player earns is the amount of time they have left on the timer after answering all 5 questions.  If they chose an incorrect answer, then the timer goes down by 10 seconds.
